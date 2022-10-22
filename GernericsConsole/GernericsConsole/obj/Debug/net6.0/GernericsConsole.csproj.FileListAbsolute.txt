@@ -1,0 +1,15 @@
+C:\Users\Sean\source\repos\GernericsCSharp\GernericsConsole\GernericsConsole\bin\Debug\net6.0\GernericsConsole.exe
+C:\Users\Sean\source\repos\GernericsCSharp\GernericsConsole\GernericsConsole\bin\Debug\net6.0\GernericsConsole.deps.json
+C:\Users\Sean\source\repos\GernericsCSharp\GernericsConsole\GernericsConsole\bin\Debug\net6.0\GernericsConsole.runtimeconfig.json
+C:\Users\Sean\source\repos\GernericsCSharp\GernericsConsole\GernericsConsole\bin\Debug\net6.0\GernericsConsole.dll
+C:\Users\Sean\source\repos\GernericsCSharp\GernericsConsole\GernericsConsole\bin\Debug\net6.0\GernericsConsole.pdb
+C:\Users\Sean\source\repos\GernericsCSharp\GernericsConsole\GernericsConsole\obj\Debug\net6.0\GernericsConsole.csproj.AssemblyReference.cache
+C:\Users\Sean\source\repos\GernericsCSharp\GernericsConsole\GernericsConsole\obj\Debug\net6.0\GernericsConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sean\source\repos\GernericsCSharp\GernericsConsole\GernericsConsole\obj\Debug\net6.0\GernericsConsole.AssemblyInfoInputs.cache
+C:\Users\Sean\source\repos\GernericsCSharp\GernericsConsole\GernericsConsole\obj\Debug\net6.0\GernericsConsole.AssemblyInfo.cs
+C:\Users\Sean\source\repos\GernericsCSharp\GernericsConsole\GernericsConsole\obj\Debug\net6.0\GernericsConsole.csproj.CoreCompileInputs.cache
+C:\Users\Sean\source\repos\GernericsCSharp\GernericsConsole\GernericsConsole\obj\Debug\net6.0\GernericsConsole.dll
+C:\Users\Sean\source\repos\GernericsCSharp\GernericsConsole\GernericsConsole\obj\Debug\net6.0\refint\GernericsConsole.dll
+C:\Users\Sean\source\repos\GernericsCSharp\GernericsConsole\GernericsConsole\obj\Debug\net6.0\GernericsConsole.pdb
+C:\Users\Sean\source\repos\GernericsCSharp\GernericsConsole\GernericsConsole\obj\Debug\net6.0\GernericsConsole.genruntimeconfig.cache
+C:\Users\Sean\source\repos\GernericsCSharp\GernericsConsole\GernericsConsole\obj\Debug\net6.0\ref\GernericsConsole.dll
